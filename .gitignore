@@ -100,3 +100,6 @@ backend/__pycache__/
 
 # Misc
 Thumbs.db
+
+backend/data/reports/*
+!backend/data/reports/.gitkeep
